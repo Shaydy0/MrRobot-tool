@@ -1,0 +1,4 @@
+requests
+phonenumbers
+colorama
+ip2geotools
